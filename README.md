@@ -1,3 +1,5 @@
+<img alt="inicio" src="gif.gif" />
+<hr>
 <h1 align="center"> crud </h1>
 <h3 align="center"> Exemplo de CRUD </h3>
 
